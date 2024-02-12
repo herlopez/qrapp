@@ -6,7 +6,7 @@ function Home() {
     return (
         <div>
 
-            React QR Code 2.0
+            React QR Code 2.1
 
             <grid container spacing={6}>
                 <grid item xs={6}>
